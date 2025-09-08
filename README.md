@@ -1,9 +1,11 @@
 
 # EX-2: Implement-Breadth-First-Search-Traversal-of-a-Graph
 
-**Name:**
+**Name:** 
+VENKATA BALAJI
 
 **Register Number:**
+2305001024
 
 ### Aim:
 To Implement Breadth First Search Traversal of a Graph using Python 3.
